@@ -20,10 +20,14 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+	
+}
+
 header {
 	color: rgb(152,173,166);
 	font-size: 2em;
-	
+
 	text-decoration: none;
 }
 
