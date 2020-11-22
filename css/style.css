@@ -4,6 +4,12 @@
 @font-face {
 	font-family: 'Baskerville';
 	src: url(../fonts/Baskerville.ttc);
+	
+header {
+	color: rgb(152,173,166);
+	font-size: 2em;
+	text-decoration: none;
+}
 
 /*////////// Global Styles //////////*/
 
