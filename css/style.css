@@ -46,7 +46,7 @@ header {
 }
 
 #copyright {
-	float: right;
+	text-align: right;
 	font-size: 0.8em;
 	color: rgb(152,173,166);
 }
