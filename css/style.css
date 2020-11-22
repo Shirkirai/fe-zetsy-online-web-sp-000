@@ -5,11 +5,7 @@
 	font-family: 'Baskerville';
 	src: url(../fonts/Baskerville.ttc);
 	
-header {
-	color: rgb(152,173,166);
-	font-size: 2em;
-	text-decoration: none;
-}
+
 
 /*////////// Global Styles //////////*/
 
@@ -24,6 +20,12 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+header {
+	color: rgb(152,173,166);
+	font-size: 2em;
+	text-decoration: none;
 }
 
 #necklace img {
